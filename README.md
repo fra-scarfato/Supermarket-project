@@ -1,4 +1,3 @@
-# Progetto OO-BD
-Progetto sviluppato per i corsi di "Object Orientation" e "Basi di dati I" del CdL di Informatica dell'Universitá "Federico II".
-Progettato e implementato da Francesco Scarfato e Giuseppe Cataldo. 
-Per maggiori informazioni, consultare la documentazione.
+# Supermarket Project
+Project for "Object Orientation" and "Database I" courses of the Computer Science Degree in University of Naples "Federico II". Started in November 2020 and completed in February 2021.
+Implemented by Francesco Scarfato and Giuseppe Cataldo.
