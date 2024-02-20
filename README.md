@@ -12,3 +12,4 @@ Implemented to manage a small supermarket. Divided in 3 parts:
 Technology stack is composed by:
 * Java
 * PostgreSQL
+Other informations on design are reported in [object oriented doc](https://github.com/fra-scarfato/supermarket-project/blob/main/DocumentationOO.pdf) and in [database doc](https://github.com/fra-scarfato/supermarket-project/blob/main/DocumentationBD.pdf).
