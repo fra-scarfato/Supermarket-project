@@ -4,5 +4,5 @@ Implemented by Francesco Scarfato and Giuseppe Cataldo.
 
 # Technology
 Technology stack is composed by:
-*Java
-*PostgreSQL
+* Java
+* PostgreSQL
